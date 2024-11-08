@@ -1642,7 +1642,7 @@ i:b:/models/kaykit/dungeon_remastered_1.1/gltf/column.gltf:3012:1
 i:b:/models/kaykit/dungeon_remastered_1.1/gltf/table_long_tablecloth_decorated_A.gltf:3112:1
 i:b:/models/kaykit/dungeon_remastered_1.1/gltf/stairs_long_modular_center.gltf:3006:1
 i:d:/scene:0:1
-i:b:/scene/default.xscene:5625:1
+i:b:/scene/default.xscene:5628:1
 i:b:/scene/test2.xscene:1207:1
 i:b:/scene/stall_template.xscene:6269:1
 i:d:/scene/Test:0:1
