@@ -1653,7 +1653,7 @@ l:b:/demos/g3d/basic/assets_raw/models/kaykit/dungeon_remastered_1.1/gltf/column
 l:b:/demos/g3d/basic/assets_raw/models/kaykit/dungeon_remastered_1.1/gltf/table_long_tablecloth_decorated_A.gltf:3112:1
 l:b:/demos/g3d/basic/assets_raw/models/kaykit/dungeon_remastered_1.1/gltf/stairs_long_modular_center.gltf:3006:1
 l:d:/demos/g3d/basic/assets_raw/scene:0:1
-l:b:/demos/g3d/basic/assets_raw/scene/default.xscene:5625:1
+l:b:/demos/g3d/basic/assets_raw/scene/default.xscene:5628:1
 l:b:/demos/g3d/basic/assets_raw/scene/test2.xscene:1207:1
 l:b:/demos/g3d/basic/assets_raw/scene/stall_template.xscene:6269:1
 l:d:/demos/g3d/basic/assets_raw/scene/Test:0:1
